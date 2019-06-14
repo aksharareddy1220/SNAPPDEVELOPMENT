@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_college_service_catalog</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 13:52:22</sys_created_on>
+        <sys_id>e595c578db8a3300aa3527374896192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>college service catalog View</sys_name>
+        <sys_package display_value="sriindu4" source="x_366670_sriindu4">34a437a4dbc63300aa352737489619cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sriindu4">34a437a4dbc63300aa352737489619cc</sys_scope>
+        <sys_update_name>sys_ui_view_e595c578db8a3300aa3527374896192c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 13:52:22</sys_updated_on>
+        <title>college service catalog View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

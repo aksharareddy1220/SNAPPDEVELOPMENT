@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_glide_date_2" label="end date" language="en" table="x_366670_sriindu4_log_incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_glide_date_2</element>
+            <help/>
+            <hint/>
+            <label>end date</label>
+            <language>en</language>
+            <name>x_366670_sriindu4_log_incident</name>
+            <plural>end dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-12 09:29:09</sys_created_on>
+            <sys_id>8a594838db0a3300aa3527374896199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>end date</sys_name>
+            <sys_package display_value="sriindu4" source="x_366670_sriindu4">34a437a4dbc63300aa352737489619cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sriindu4">34a437a4dbc63300aa352737489619cc</sys_scope>
+            <sys_update_name>sys_documentation_x_366670_sriindu4_log_incident_u_glide_date_2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-12 09:29:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

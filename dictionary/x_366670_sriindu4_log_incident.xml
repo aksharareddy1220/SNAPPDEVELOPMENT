@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="log incident" max_length="40" name="x_366670_sriindu4_log_incident" type="collection">
+        <element choice="1" label="contact type" mandatory="true" max_length="40" name="contact_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="email" value="email"/>
+                <element inactive_on_update="false" label="pno" value="pno"/>
+            </choice>
+        </element>
+        <element label="item" max_length="100" name="item" type="string"/>
+        <element label="Number" mandatory="true" max_length="100" name="number" type="string"/>
+        <element label="short description" max_length="100" name="short_description" type="string"/>
+        <element label="state" max_length="100" name="state" type="string"/>
+        <element label="start date" max_length="40" name="u_glide_date_1" type="glide_date"/>
+        <element label="end date" max_length="40" name="u_glide_date_2" type="glide_date"/>
+    </element>
+</database>

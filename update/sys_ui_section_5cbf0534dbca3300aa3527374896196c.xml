@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="5cbf0534dbca3300aa3527374896196c" sys_domain="global" table="x_366670_sriindu4_suggestion_box" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_rating</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-12 14:36:30</sys_created_on>
+            <sys_id>d4bf4934dbca3300aa352737489619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366670_sriindu4_suggestion_box" sys_domain="global" view="Default view">5cbf0534dbca3300aa3527374896196c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-12 14:36:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reason</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-12 14:38:01</sys_created_on>
+            <sys_id>1a00d534dbca3300aa352737489619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366670_sriindu4_suggestion_box" sys_domain="global" view="Default view">5cbf0534dbca3300aa3527374896196c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-12 14:38:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>suggestion</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-12 14:39:37</sys_created_on>
+            <sys_id>b5601174dbca3300aa35273748961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366670_sriindu4_suggestion_box" sys_domain="global" view="Default view">5cbf0534dbca3300aa3527374896196c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-12 14:39:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_366670_sriindu4_suggestion_box</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-12 14:36:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5cbf0534dbca3300aa3527374896196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366670_sriindu4_suggestion_box</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="sriindu4" source="x_366670_sriindu4">34a437a4dbc63300aa352737489619cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sriindu4">34a437a4dbc63300aa352737489619cc</sys_scope>
+            <sys_update_name>sys_ui_section_5cbf0534dbca3300aa3527374896196c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-12 14:36:30</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
