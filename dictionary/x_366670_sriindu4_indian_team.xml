@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="indian cricket team " max_length="40" name="x_366670_sriindu4_indian_team" type="collection">
+        <element attributes="import_attribute_name=email,edge_encryption_enabled=true" label="email" max_length="40" name="u_email" type="string"/>
+        <element attributes="import_attribute_name=first_name,edge_encryption_enabled=true" label="first_name" max_length="40" name="u_first_name" type="string"/>
+        <element attributes="import_attribute_name=last_name,edge_encryption_enabled=true" label="last_name" max_length="40" name="u_last_name" type="string"/>
+        <element attributes="import_attribute_name=user_name,edge_encryption_enabled=true" label="user_name" max_length="40" name="u_user_name" type="string"/>
+        <element attributes="import_attribute_name=user_password,edge_encryption_enabled=true" label="user_password" max_length="40" name="u_user_password" type="string"/>
+    </element>
+</database>

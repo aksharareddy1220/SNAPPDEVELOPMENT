@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <link_element/>
+        <name>Shop</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>Hi welcome</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-15 06:27:35</sys_created_on>
+        <sys_id>3fcb762ddb0e3300aa3527374896195b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shop</sys_name>
+        <sys_package display_value="sriindu4" source="x_366670_sriindu4">34a437a4dbc63300aa352737489619cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sriindu4">34a437a4dbc63300aa352737489619cc</sys_scope>
+        <sys_update_name>sys_template_3fcb762ddb0e3300aa3527374896195b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-15 06:27:35</sys_updated_on>
+        <table>x_366670_sriindu4_log_incident</table>
+        <template>active=false^catagory=1^state=TEL^assignment_group=8a5055c9c61122780043563ef53438e3^short_description=Hi welcome to sri indu^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>

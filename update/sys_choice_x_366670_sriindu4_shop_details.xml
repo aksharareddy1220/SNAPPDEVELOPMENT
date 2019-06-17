@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="details" table="x_366670_sriindu4_shop" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>details</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>email</label>
+            <language>en</language>
+            <name>x_366670_sriindu4_shop</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 13:57:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bbc9d3dddb063300aa352737489619a5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 13:57:11</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>details</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>pno</label>
+            <language>en</language>
+            <name>x_366670_sriindu4_shop</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 13:57:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46d99b9ddb063300aa35273748961921</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 13:57:22</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>details</element>
+            <name>x_366670_sriindu4_shop</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 13:57:04</sys_created_on>
+            <sys_id>0ad99711db463300aa35273748961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>details</sys_name>
+            <sys_package display_value="sriindu4" source="x_366670_sriindu4">34a437a4dbc63300aa352737489619cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sriindu4">34a437a4dbc63300aa352737489619cc</sys_scope>
+            <sys_update_name>sys_choice_x_366670_sriindu4_shop_details</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 13:57:04</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

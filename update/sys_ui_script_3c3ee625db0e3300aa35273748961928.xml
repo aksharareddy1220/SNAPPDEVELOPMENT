@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_script">
+    <sys_ui_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <global>false</global>
+        <name>x_366670_sriindu4.testuis2</name>
+        <script><![CDATA[var x_366670_sriindu4 = x_366670_sriindu4 || {};
+
+x_366670_sriindu4.testuis2 = (function() {
+	"use strict";
+
+/* set your private variables and functions here. For example: 
+	var privateVar = 0; 
+	function private_function() {
+		return ++privateVar;
+	}
+*/
+
+/* Share variables between multiple UI scripts by adding them to your scope object. For example: 
+	x_366670_sriindu4.sharedVar = 0; 
+
+ Then access them in your scripts the same way. For example: 
+	function get_shared() {
+		return x_366670_sriindu4.sharedVar;
+	}
+*/
+
+	return {
+dateValidate:function()
+{
+alert("called from ui script");
+},
+/* set your public API here. For example:
+		incrementAndReturnPrivateVar: function() {
+			return private_function();
+		},
+*/
+		type:  "testuis2"
+	};
+})();
+]]></script>
+        <script_name>testuis2</script_name>
+        <sys_class_name>sys_ui_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-15 05:27:14</sys_created_on>
+        <sys_id>3c3ee625db0e3300aa35273748961928</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_366670_sriindu4.testuis2</sys_name>
+        <sys_package display_value="sriindu4" source="x_366670_sriindu4">34a437a4dbc63300aa352737489619cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sriindu4">34a437a4dbc63300aa352737489619cc</sys_scope>
+        <sys_update_name>sys_ui_script_3c3ee625db0e3300aa35273748961928</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-15 05:27:14</sys_updated_on>
+        <ui_type>0</ui_type>
+        <use_scoped_format>true</use_scoped_format>
+    </sys_ui_script>
+</record_update>
