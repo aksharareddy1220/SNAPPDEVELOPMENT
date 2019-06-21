@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>abc</name>
+        <password>ljXpnqjeERe+Dc/urfzFXQ==</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-19 06:00:27</sys_created_on>
+        <sys_id>e79c133adb0e3300aa352737489619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>abc</sys_name>
+        <sys_package display_value="sriindu4" source="x_366670_sriindu4">34a437a4dbc63300aa352737489619cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sriindu4">34a437a4dbc63300aa352737489619cc</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_e79c133adb0e3300aa352737489619f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-19 06:00:27</sys_updated_on>
+        <username>admin</username>
+    </sys_auth_profile_basic>
+</record_update>

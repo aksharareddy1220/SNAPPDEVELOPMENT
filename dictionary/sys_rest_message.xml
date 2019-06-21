@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="REST Message" max_length="40" name="sys_rest_message" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="end point" max_length="40" name="x_366670_sriindu4_end_point" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="abc b" max_length="40" name="x_366670_sriindu4_abc_b" type="collection">
+        <element label="short desc" max_length="10" name="short_desc" type="string"/>
+    </element>
+</database>

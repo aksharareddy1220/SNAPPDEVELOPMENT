@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" label="suggestion backup" max_length="40" name="x_366670_sriindu4_suggestuin_backup" type="collection">
+        <element label="reason" max_length="40" name="reason" type="string"/>
+        <element choice="1" label="service rating" max_length="40" name="service_rating" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1" value="1"/>
+                <element inactive_on_update="false" label="2" value="2"/>
+                <element inactive_on_update="false" label="3" value="3"/>
+                <element inactive_on_update="false" label="4" value="4"/>
+            </choice>
+        </element>
+        <element label="suggestion" max_length="40" name="suggestion" type="boolean"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
